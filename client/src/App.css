@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: antiquewhite;
+}
+
+h1 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+textarea {
+  background-color: azure;
+  width: 70%;
+  height: 80%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid burlywood;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
