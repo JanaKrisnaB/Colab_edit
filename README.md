@@ -2,6 +2,11 @@
 
 This project consists of a Node.js backend server and a React frontend client.
 
+## Features
+- Real-time collaborative text editing
+- WebSocket-based live sync across all connected clients
+- Instant document state on new client connection
+
 ## Prerequisites
 
 - Node.js installed
